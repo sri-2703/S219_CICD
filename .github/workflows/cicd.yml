@@ -46,3 +46,4 @@ jobs:
           git config --global user.email "alfasushma27@gmail.com"
           npm install -g gh-pages
           gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/githubelan77/S219_CICD.git
+          
